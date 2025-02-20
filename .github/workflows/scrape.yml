@@ -28,6 +28,10 @@ jobs:
       run: |
         shot-scraper install
     - name: Scrape
+      env:
+        PROXY_SERVER: ${{ secrets.PROXY_SERVER }}
+        PROXY_USERNAME: ${{ secrets.PROXY_USERNAME }}
+        PROXY_PASSWORD: ${{ secrets.PROXY_PASSWORD }}
       run: |        
         ./scrape.sh
     - name: Commit and push if it changed

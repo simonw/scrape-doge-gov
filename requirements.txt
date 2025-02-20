@@ -1,2 +1,2 @@
 click
-shot-scraper>=1.7
+https://github.com/simonw/shot-scraper/archive/refs/heads/proxies.zip
