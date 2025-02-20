@@ -2,9 +2,9 @@ name: Scrape doge.gov
 
 on:
   workflow_dispatch:
-  # push:
-  # schedule:
-  # - cron:  '21 * * * *'
+  push:
+  schedule:
+  - cron:  '21 * * * *'
 
 jobs:
   shot-scraper:
