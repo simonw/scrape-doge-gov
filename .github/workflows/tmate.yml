@@ -1,0 +1,15 @@
+name: tmate session
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Setup tmate session
+      uses: mxschmitt/action-tmate@v3
