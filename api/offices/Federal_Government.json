@@ -1,0 +1,62 @@
+{
+  "office": {
+    "id": "Federal_Government",
+    "name": "Federal Government",
+    "parentId": null,
+    "sourceId": "new-1736734725373",
+    "createdBy": null,
+    "updatedBy": null,
+    "createdAt": "2025-01-13T02:18:45.373Z",
+    "updatedAt": "2025-01-13T02:18:52.604Z",
+    "statuteLink": null,
+    "fedscopeDivision": null,
+    "type": "office",
+    "childCount": 3
+  },
+  "kpis": [],
+  "relationships": null,
+  "children": [
+    {
+      "id": "69ee18bc-9ac8-467e-84b0-106601b01b90",
+      "name": "Executive Branch",
+      "parentId": "Federal_Government",
+      "sourceId": "new-1736734736886",
+      "createdBy": null,
+      "updatedBy": null,
+      "createdAt": "2025-01-13T02:18:56.886Z",
+      "updatedAt": "2025-01-13T02:19:47.564Z",
+      "statuteLink": null,
+      "fedscopeDivision": null,
+      "type": "office",
+      "childCount": 4
+    },
+    {
+      "id": "bf1996e6-9abf-40ab-a4a0-6812bd462fb0",
+      "name": "Judicial Branch",
+      "parentId": "Federal_Government",
+      "sourceId": "new-1736734749062",
+      "createdBy": null,
+      "updatedBy": null,
+      "createdAt": "2025-01-13T02:19:09.062Z",
+      "updatedAt": "2025-01-13T02:19:59.626Z",
+      "statuteLink": null,
+      "fedscopeDivision": null,
+      "type": "office",
+      "childCount": 0
+    },
+    {
+      "id": "da399ff9-60e9-46a1-9964-7e06c906e825",
+      "name": "Legislative Branch",
+      "parentId": "Federal_Government",
+      "sourceId": "new-1736734743686",
+      "createdBy": null,
+      "updatedBy": null,
+      "createdAt": "2025-01-13T02:19:03.686Z",
+      "updatedAt": "2025-01-13T02:19:55.234Z",
+      "statuteLink": null,
+      "fedscopeDivision": null,
+      "type": "office",
+      "childCount": 0
+    }
+  ]
+}

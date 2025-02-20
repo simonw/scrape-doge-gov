@@ -1,0 +1,76 @@
+{
+  "office": {
+    "id": "69ee18bc-9ac8-467e-84b0-106601b01b90",
+    "name": "Executive Branch",
+    "parentId": "Federal_Government",
+    "sourceId": "new-1736734736886",
+    "createdBy": null,
+    "updatedBy": null,
+    "createdAt": "2025-01-13T02:18:56.886Z",
+    "updatedAt": "2025-01-13T02:19:47.564Z",
+    "statuteLink": null,
+    "fedscopeDivision": null,
+    "type": "office",
+    "childCount": 4
+  },
+  "kpis": [],
+  "relationships": null,
+  "children": [
+    {
+      "id": "d221c611-2ed4-4beb-b23c-6133dd83bbe9",
+      "name": "Cabinet Level Agencies",
+      "parentId": "69ee18bc-9ac8-467e-84b0-106601b01b90",
+      "sourceId": "new-1736347696187",
+      "createdBy": null,
+      "updatedBy": null,
+      "createdAt": "2025-01-08T14:48:16.187Z",
+      "updatedAt": "2025-01-08T14:48:42.953Z",
+      "statuteLink": null,
+      "fedscopeDivision": null,
+      "type": "office",
+      "childCount": 34
+    },
+    {
+      "id": "6c7c9adc-9b17-4816-bb94-8e9b75e7d030",
+      "name": "Large Independent Agencies",
+      "parentId": "69ee18bc-9ac8-467e-84b0-106601b01b90",
+      "sourceId": "new-1736348659638",
+      "createdBy": null,
+      "updatedBy": null,
+      "createdAt": "2025-01-08T15:04:19.638Z",
+      "updatedAt": "2025-01-08T15:04:31.879Z",
+      "statuteLink": null,
+      "fedscopeDivision": null,
+      "type": "office",
+      "childCount": 43
+    },
+    {
+      "id": "7cd300eb-cf3f-47f5-90f1-9e66a8bc8d06",
+      "name": "Medium Independent Agencies",
+      "parentId": "69ee18bc-9ac8-467e-84b0-106601b01b90",
+      "sourceId": "new-1736349404763",
+      "createdBy": null,
+      "updatedBy": null,
+      "createdAt": "2025-01-08T15:16:44.763Z",
+      "updatedAt": "2025-01-08T15:16:58.451Z",
+      "statuteLink": null,
+      "fedscopeDivision": null,
+      "type": "office",
+      "childCount": 63
+    },
+    {
+      "id": "33743d10-7263-450a-a3de-73d7ae4d8333",
+      "name": "Small Independent Agencies",
+      "parentId": "69ee18bc-9ac8-467e-84b0-106601b01b90",
+      "sourceId": "new-1736350120080",
+      "createdBy": null,
+      "updatedBy": null,
+      "createdAt": "2025-01-08T15:28:40.080Z",
+      "updatedAt": "2025-01-08T15:28:56.792Z",
+      "statuteLink": null,
+      "fedscopeDivision": null,
+      "type": "office",
+      "childCount": 119
+    }
+  ]
+}
