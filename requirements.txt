@@ -1,0 +1,2 @@
+click
+shot-scraper>=1.7
