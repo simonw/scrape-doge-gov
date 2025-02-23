@@ -1,2 +1,2 @@
 click
-https://github.com/simonw/shot-scraper/archive/refs/heads/proxies.zip
+shot-scraper
