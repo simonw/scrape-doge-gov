@@ -27,11 +27,14 @@ jobs:
     - name: Install Playwright dependencies
       run: |
         shot-scraper install
+    - name: Setup Tailscale
+      uses: tailscale/github-action@v3
+      with:
+        oauth-client-id: ${{ secrets.TAILSCALE_OAUTH_CLIENT_ID }}
+        oauth-secret: ${{ secrets.TAILSCALE_OAUTH_SECRET }}
+        args: "--exit-node=${{ secrets.TAILSCALE_EXIT_NODE }} --exit-node-allow-lan-access=true"
+        tags: tag:github-actions
     - name: Scrape
-      env:
-        PROXY_SERVER: ${{ secrets.PROXY_SERVER }}
-        PROXY_USERNAME: ${{ secrets.PROXY_USERNAME }}
-        PROXY_PASSWORD: ${{ secrets.PROXY_PASSWORD }}
       run: |        
         ./scrape.sh
     - name: Commit and push if it changed
@@ -39,6 +42,7 @@ jobs:
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
         git add api
+        git add files.txt
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
