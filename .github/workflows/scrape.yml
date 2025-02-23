@@ -6,6 +6,9 @@ on:
   schedule:
   - cron:  '21 * * * *'
 
+permissions:
+  contents: write
+
 jobs:
   shot-scraper:
     runs-on: ubuntu-latest
