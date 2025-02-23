@@ -14,6 +14,12 @@ python extract_har.py spend.zip application/json -o . --paths --pretty-json
 python extract_har.py workforce.zip application/json -o . --paths --pretty-json
 python extract_har.py regulations.zip application/json -o . --paths --pretty-json
 
+shot-scraper javascript 'https://doge.gov/savings' "new Promise(done => setInterval(
+  () => {
+    done(Array.from(document.querySelectorAll('p'), el => el.innerText).join('\n'));
+  }, 1000
+));" -r > savings.txt
+
 find . > files.txt
 
 rm *.zip
