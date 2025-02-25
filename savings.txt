@@ -1,9 +1,9 @@
 The people voted for major reform.
 Savings
-Let's balance the budget! DOGE's total estimated savings are $55 billion, which is a combination of fraud detection/deletion, contract/lease cancellations, contract/lease renegotiations, asset sales, grant cancellations, workforce reductions, programmatic changes, and regulatory savings.
+Let's balance the budget! DOGE's total estimated savings are $65 billion, which is a combination of fraud detection/deletion, contract/lease cancellations, contract/lease renegotiations, asset sales, grant cancellations, workforce reductions, programmatic changes, and regulatory savings.
 
-We are working to upload all of this data in a digestible and fully transparent manner with clear assumptions, consistent with applicable rules and regulations. To get started, listed below are a subset of contract and lease cancellations; for the former, the contracts listed are those that have been posted publicly on www.fpds.gov. Note that the FPDS posting of the final termination notices can have up to a 1-month lag. These specific listed contracts account for approx. 20% of overall DOGE savings.
+We are working to upload all of this data in a digestible and fully transparent manner with clear assumptions, consistent with applicable rules and regulations. To get started, listed below are a subset of contract and lease cancellations; for the former, the contracts listed are those that have been posted publicly on www.fpds.gov. Note that the FPDS posting of the final termination notices can have up to a 1-month lag. There may be discrepencies between FPDS and the posted numbers, the latter of which originate directly from the agency contracting officials. If you would like to report a potential discrepancy, please DM the @DOGE X account.
 
-Last updated February 17, 2025. This will initially be updated twice per week; over time, the website will improve and the updates will converge to real-time.
+Last updated February 24, 2025. This will initially be updated twice per week; over time, the website will improve and the updates will converge to real-time.
 Wall of Receipts
 A transparent account of DOGE's findings and actions.
