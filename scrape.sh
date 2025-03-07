@@ -20,6 +20,12 @@ shot-scraper javascript 'https://doge.gov/savings' "new Promise(done => setInter
   }, 1000
 ));" -r > savings.txt
 
+shot-scraper javascript 'https://doge.gov/' "new Promise(done => setInterval(
+  () => {
+    done(Array.from(document.querySelectorAll('p'), el => el.innerText).join('\n'));
+  }, 1000
+));" -r > index.txt
+
 find . -not -path "*/\.git*" | sort > files.txt
 
 rm *.zip
