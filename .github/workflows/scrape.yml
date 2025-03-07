@@ -47,6 +47,7 @@ jobs:
         git add api
         git add files.txt
         git add savings.txt
+        git add index.txt
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
