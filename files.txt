@@ -16,7 +16,7 @@
 ./api/receipts/overview.json
 ./extract_har.py
 ./files.txt
-./index.zip
+./index.txt
 ./regulations.zip
 ./requirements.txt
 ./savings.txt
