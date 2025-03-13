@@ -1,18 +1,18 @@
 The people voted for major reform.
 Estimated Savings
-$105B
+$115B
 Combination of asset sales, contract/lease cancellations and renegotiations, fraud and improper payment deletion, grant cancellations, interest savings, programmatic changes, regulatory savings, and workforce reductions.
 Amount Saved Per Taxpayer
-$652.17
+$714.29
 Per taxpayer amount is calculated using an estimate of 161 million individual federal taxpayers.
 We are working to upload all of our receipts in a digestible and transparent manner consistent with applicable rules and regulations. To get started, listed below are a subset of contract, grant, and lease cancellations, representing ~30% of total savings.
 The contracts listed below have been posted publicly on fpds.gov. FPDS posting of the contract termination notices can have up to a 1 month lag. There may be discrepencies between FPDS and the posted numbers, the latter of which originate directly from agency contracting officials.
-Last updated March 5th, 2025. This will initially be updated weekly; over time, the website will improve and the updates will converge to real-time.
+Last updated March 11th, 2025. This will initially be updated weekly; over time, the website will improve and the updates will converge to real-time.
 Tracking progress across federal agencies
 Wall of Receipts
 Toggle between two views of the data:
 Total Value: The potential expenditure including options.
 Savings: The difference between the total value and the amount currently obligated.
-Displaying 4083 contract terminations totaling ~$15B in savings.
-Displaying 6289 grant terminations totaling ~$15B in savings. Descriptions are forthcoming.
-Displaying 748 lease terminations totaling 9,587,384 square feet and ~$468M in lease savings.
+Displaying 5356 contract terminations totaling ~$20B in savings.
+Displaying 7488 grant terminations totaling ~$17B in savings. Descriptions are forthcoming.
+Displaying 793 lease terminations totaling 10,088,353 square feet and ~$500M in lease savings.
