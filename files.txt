@@ -21,4 +21,5 @@
 ./requirements.txt
 ./savings.txt
 ./scrape.sh
+./spend.zip
 ./workforce.zip
