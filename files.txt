@@ -17,8 +17,11 @@
 ./extract_har.py
 ./files.txt
 ./index.txt
+./index.zip
 ./regulations.zip
 ./requirements.txt
 ./savings.txt
+./savings.zip
 ./scrape.sh
+./spend.zip
 ./workforce.zip
