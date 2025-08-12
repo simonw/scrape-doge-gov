@@ -21,7 +21,6 @@
 ./regulations.zip
 ./requirements.txt
 ./savings.txt
-./savings.zip
 ./scrape.sh
 ./spend.zip
 ./workforce.zip
